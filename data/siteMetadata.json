@@ -1,0 +1,17 @@
+{
+  "title": "C-RAST Blog",
+  "author": "C-RAST",
+  "headerTitle": "Blog",
+  "description": "A blog created for C-RAST users.",
+  "language": "en-us",
+  "siteUrl": "https://c-rast.com",
+  "image": "/static/images/sara.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "c-rast@cognub.com",
+  "github": "https://github.com",
+  "twitter": "https://twitter.com/Twitter",
+  "facebook": "https://facebook.com",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com",
+  "locale": "en-US"
+}
