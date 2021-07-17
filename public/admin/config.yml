@@ -9,8 +9,22 @@ public_folder: "/static/images" # The src attribute for uploaded media will begi
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog Post" # Used in the UI
+    label: "Blog Post Normal" # Used in the UI
     folder: "data/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date: YYYY-MM-DD", name: "date", widget: "string"}
+      # - {label: "Featured Image", name: "images", widget: "image"}
+      - {label: "Summary", name: "summary", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog Post News" # Used in the UI
+    folder: "data/blog/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
