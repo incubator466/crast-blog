@@ -1,7 +1,7 @@
 ---
 draft: "false"
 title: Testing netlify
-date: 2021-07-17T21:37:50.719Z
+date: "2021-07-12"
 images: /static/images/cap.png
 summary: first cms blog from netlify
 tags:

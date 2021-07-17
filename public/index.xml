@@ -21,6 +21,16 @@
   </item>
 
   <item>
+    <guid>https://c-rast.com/blog/2021-07-17-testing-netlify</guid>
+    <title>Testing netlify</title>
+    <link>https://c-rast.com/blog/2021-07-17-testing-netlify</link>
+    <description>first cms blog from netlify</description>
+    <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+    <author>c-rast@cognub.com (C-RAST)</author>
+    <category>netlify</category><category>cms</category>
+  </item>
+
+  <item>
     <guid>https://c-rast.com/blog/code-sample</guid>
     <title>Sample .md file</title>
     <link>https://c-rast.com/blog/code-sample</link>
