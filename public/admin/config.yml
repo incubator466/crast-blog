@@ -22,7 +22,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog-news" # Used in routes, e.g., /admin/collections/blog
     label: "Blog Post News" # Used in the UI
     folder: "data/blog/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
