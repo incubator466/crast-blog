@@ -16,6 +16,7 @@ export async function getStaticProps() {
 export default function Home({ posts }) {
   return (
     <>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       <PageSeo
         title={siteMetadata.title}
         description={siteMetadata.description}
