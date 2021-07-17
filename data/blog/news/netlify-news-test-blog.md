@@ -1,7 +1,7 @@
 ---
 draft: "false"
 title: netlify news test blog
-date: '"2021-07-18"'
+date: '"2021-07-17"'
 summary: testing my next netlify cms blog for crast
 tags:
   - netlify
