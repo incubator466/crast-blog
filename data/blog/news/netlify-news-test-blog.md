@@ -12,4 +12,8 @@ tags:
 
 `testing the codes sniipet`
 
+```jsx
+var code = "blok testingg";
+```
+
 ![testing images](/static/images/as-graphic-animal-ages.jpg "md test")
