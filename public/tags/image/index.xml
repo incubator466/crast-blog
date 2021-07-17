@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>C-RAST Blog</title>
+      <link>https://c-rast.com/blog</link>
+      <description>A blog created for C-RAST users.</description>
+      <language>en-us</language>
+      <managingEditor>c-rast@cognub.com (C-RAST)</managingEditor>
+      <webMaster>c-rast@cognub.com (C-RAST)</webMaster>
+      <lastBuildDate>Wed, 11 Nov 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://c-rast.com/tags/image/index.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://c-rast.com/blog/guide-to-using-images-in-blog</guid>
+    <title>Images in Blog</title>
+    <link>https://c-rast.com/blog/guide-to-using-images-in-blog</link>
+    <description>In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.</description>
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>c-rast@cognub.com (C-RAST)</author>
+    <category>Image</category><category>test</category>
+  </item>
+
+    </channel>
+  </rss>

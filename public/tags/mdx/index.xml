@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>C-RAST Blog</title>
+      <link>https://c-rast.com/blog</link>
+      <description>A blog created for C-RAST users.</description>
+      <language>en-us</language>
+      <managingEditor>c-rast@cognub.com (C-RAST)</managingEditor>
+      <webMaster>c-rast@cognub.com (C-RAST)</webMaster>
+      <lastBuildDate>Sat, 16 Nov 2019 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://c-rast.com/tags/mdx/index.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://c-rast.com/blog/deriving-ols-estimator</guid>
+    <title>Deriving the OLS Estimator</title>
+    <link>https://c-rast.com/blog/deriving-ols-estimator</link>
+    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
+    <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
+    <author>c-rast@cognub.com (C-RAST)</author>
+    <category>MDX</category><category>math</category><category>test</category>
+  </item>
+
+    </channel>
+  </rss>

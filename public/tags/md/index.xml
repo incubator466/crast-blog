@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>C-RAST Blog</title>
+      <link>https://c-rast.com/blog</link>
+      <description>A blog created for C-RAST users.</description>
+      <language>en-us</language>
+      <managingEditor>c-rast@cognub.com (C-RAST)</managingEditor>
+      <webMaster>c-rast@cognub.com (C-RAST)</webMaster>
+      <lastBuildDate>Mon, 12 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://c-rast.com/tags/md/index.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://c-rast.com/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://c-rast.com/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+    <author>c-rast@cognub.com (C-RAST)</author>
+    <category>MD</category><category>code</category><category>test</category>
+  </item>
+
+  <item>
+    <guid>https://c-rast.com/blog/category1/testing-cat-blog</guid>
+    <title>testing my first blog</title>
+    <link>https://c-rast.com/blog/category1/testing-cat-blog</link>
+    <description>The blog is being tested </description>
+    <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
+    <author>c-rast@cognub.com (C-RAST)</author>
+    <category>MD</category><category>first-blog</category><category>test</category>
+  </item>
+
+    </channel>
+  </rss>
