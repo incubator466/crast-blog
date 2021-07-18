@@ -1,6 +1,6 @@
 ---
 title: testing my first blog
-date: '2021-07-11'
+date: 2021 07 11
 tags: ['MD', 'first-blog', 'test']
 draft: false
 summary: 'The blog is being tested '
